@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1650321952 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\proiectprogramare\meniuproiectpp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Meniu.h"
+	"Angajat.h"
+	<windows.h>
+
+1646394335 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\a\main.c
+	<stdio.h>
+
+1646396674 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\proiectprogramare\functii.c
+	"Meniu.h"
+
+1650321875 c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\proiectprogramare\meniu.h
+	"angajat.h"
+	<windows.h>
+
+1650385284 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\proiectprogramare\angajat.c
+	"Angajat.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"Meniu.h"
+
+1650323132 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\proiectprogramare\meniu.c
+	"Meniu.h"
+	<windows.h>
+
+1650322622 c:\code blocks rezolvari\facultate programare an 1 sem 2\proiectprogramare\proiectprogramare\angajat.h
+
+1653232639 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\angajat.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1653046394 c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\angajat.h
+
+1653228631 c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\meniu.h
+	<string>
+
+1653047054 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\meniu.cpp
+	"Meniu.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdlib>
+	<csignal>
+
+1653231814 source:c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\meniuproiectpp.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+
+1653228452 c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\angajat.cpp
+	"Meniu.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1653231502 c:\code blocks rezolvari\facultate programare an 1 sem 2\pp c++\proiectprogramare\proiectprogramare\header.h
+	<string>
+	<vector>
+
+1653238081 source:c:\users\costel junior\desktop\proiectprogramare\proiectprogramare\angajat.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1653239005 c:\users\costel junior\desktop\proiectprogramare\proiectprogramare\header.h
+	<string>
+	<vector>
+
+1653238492 source:c:\users\costel junior\desktop\proiectprogramare\proiectprogramare\meniuproiectpp.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+
+1653243009 source:c:\users\smara\downloads\prohect(3)\proiectprogramare\proiectprogramare\angajat.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1653243006 c:\users\smara\downloads\prohect(3)\proiectprogramare\proiectprogramare\header.h
+	<string>
+	<vector>
+
+1653242978 source:c:\users\smara\downloads\prohect(3)\proiectprogramare\proiectprogramare\meniuproiectpp.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+
+1654699070 source:c:\users\smara\downloads\proiectprogramarec++tema2\proiectprogramare\angajat.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1653239406 c:\users\smara\downloads\proiectprogramarec++tema2\proiectprogramare\header.h
+	<string>
+	<vector>
+
+1654696223 source:c:\users\smara\downloads\proiectprogramarec++tema2\proiectprogramare\meniuproiectpp.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+
+1654699070 source:c:\users\costel junior\desktop\sem 2\pp\cpp\proiectprogramarec++\angajat.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1653239406 c:\users\costel junior\desktop\sem 2\pp\cpp\proiectprogramarec++\header.h
+	<string>
+	<vector>
+
+1654696223 source:c:\users\costel junior\desktop\sem 2\pp\cpp\proiectprogramarec++\meniuproiectpp.cpp
+	"Header.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+
